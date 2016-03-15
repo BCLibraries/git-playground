@@ -1,6 +1,6 @@
 ## The Ant and the Dove
 
-![The fox and the Panda](img/fox-and-goat.jpg)
+![The fox and the Panda](img/ant-and-dove.jpg)
 
 A Dove saw an Ant fall into a brook. The Ant struggled in vain to reach the bank, and in pity, the Dove dropped a blade of straw close beside it. Clinging to the straw like a shipwrecked sailor to a broken spar, the Ant floated safely to shore.
 
