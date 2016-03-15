@@ -1,4 +1,4 @@
-A collection of foibles from [*The Æsop for Children*](http://www.gutenberg.org/files/19994/19994-h/19994-h.htm) with illustrations by Milo Winter.
+A collection of fables from [*The Æsop for Children*](http://www.gutenberg.org/files/19994/19994-h/19994-h.htm) with illustrations by Milo Winter.
 
 ## Fables
 * [The Ant and Dove](fables/ant-and-dove.md)
