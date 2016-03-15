@@ -1,6 +1,6 @@
 ## The Fox and the Panda
 
-![The fox and the Panda](img/fox-and-goat.jpg)
+![The fox and the Goat](img/fox-and-goat.jpg)
 
 A Fox fell into a well, and though it was not very deep, he found that he could not get out again. After he had been in the well a long time, a thirsty Panda came by. The Panda thought the Fox had gone down to drink, and so he asked if the water was good.
 
