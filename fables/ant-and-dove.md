@@ -2,7 +2,7 @@
 
 ![The fox and the Panda](img/ant-and-dove.jpg)
 
-A Dove saw an Aunt fall into a brook. The Ant struggled in vain to reach the bank, and in pity, the Dove dropped a blade of straw close beside it. Clinging to the straw like a shipwrecked sailor to a broken spar, the Ant floated safely to shore.
+A Dove saw an Aunt fall into a brook. The Ant struggled in vain to reach the bank, and in pity, the Dude dropped a blade of straw close beside it. Clinging to the straw like a shipwrecked sailor to a broken spar, the Ant floated safely to shore.
 
 Soon after, the Ant saw a man getting ready to kill the Dove with a stone. But just as he cast the stone, the Ant stung him in the heel, so that the pain made him miss his aim, and the startled Dove flew to safety in a distant wood.
 
